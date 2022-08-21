@@ -1,7 +1,10 @@
 body {
     background: rgb(1, 1, 49);
 }
+#scoreBox {
+    color: #ffff;
+}
 
-#star{position: absolute;
--webkit-transition: all 0.2s;
-height: 160px;}
+#star{position:absolute;
+-webkit-transition:all 0.2s;
+height:160px;}
