@@ -17,3 +17,5 @@ function moveStar(){
         clearInterval(timer);
     }
 }
+
+var timer=setInterval(moveStar, 1000);
